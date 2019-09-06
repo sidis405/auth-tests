@@ -8,9 +8,6 @@
             "email": "forge405@gmail.com"
         }
     ],
-    "require": {
-        "laravel/framework": "^6.0"
-    },
     "extra": {
         "laravel": {
             "providers": [
